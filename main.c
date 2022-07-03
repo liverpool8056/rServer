@@ -3,6 +3,7 @@
 
 int main(){
     int a = 1;
-    printf("Hello");
+    char name[] = "robin";
     printf("a: %d", a);
+    hello(name);
 }

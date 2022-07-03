@@ -1,3 +1,1 @@
-#include <stdio.h>
-
-int hello(char *[]);
+int hello(char []);
